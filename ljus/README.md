@@ -53,7 +53,15 @@ Följande ordning, lägen och adresser ska användas:
 DVC Pro är inställd för att ansluta till Wi-Fi SSID:
 - `KGWLAN-5Ghz`
 
-## Arcolis-appar
+## Styra DVC Pro utan laptop
+1. Se till att DVC Pro är strömsatt och ansluten till samma Wi-Fi (`KGWLAN-5Ghz`).
+2. Öppna `Arcolis Remote` eller `Arcolis Remote Pro` på mobil/surfplatta.
+3. Appen hittar kompatibla controllers automatiskt i nätverket.
+4. Välj DVC Pro-enheten och trigga scener som ligger i `Page 1` (skrivna via Stand Alone-läget).
+
+<img src="./Arcolis%20Remote.jpg" alt="Arcolis Remote - lokal enhet CLDVC PRO" width="280" />
+
+## Arcolis-appar (för att styra DVC Pro remote)
 - [Arcolis Remote på Google Play](https://play.google.com/store/apps/details?id=com.lightingsoft.arcolisremote&hl=fi)
 - [Arcolis Remote Pro på Google Play](https://play.google.com/store/apps/details?id=com.lightinsoft.easyremotepro)
 

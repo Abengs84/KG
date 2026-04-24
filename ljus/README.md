@@ -21,6 +21,8 @@ Följande ordning, lägen och adresser ska användas:
 9. Hydrabeam 400 RGBW, Mode 5 (56 channels), DMX-kanal 85, plats: mitten uppe
 10. Q-Spot 40 RGBW, Mode 5 (9 channels), DMX-kanal 141, plats: vänster uppe
 
+<img src="./Cameo%20ljus.png" alt="Cameo ljus" width="360" />
+
 ## Öppna färdig show i Daslight 4
 1. Starta Daslight 4.
 2. Ladda `.dvc`-filen (`KG show.dvc`).
@@ -38,9 +40,13 @@ Följande ordning, lägen och adresser ska användas:
 4. Dra dem till höger under `Device -> Page 1`.
 5. Klicka `Write` för att skriva till interface.
 
+<img src="./Stand%20Alone.png" alt="Stand Alone" width="360" />
+
 ## Konfigurera DVC Pro-interface
 1. I Daslight 4: klicka `Tools -> Hardware Manager`.
 2. Kontrollera/enhetsinställningar för DVC Pro.
+
+<img src="./Hardware%20Manager.png" alt="Hardware Manager" width="360" />
 
 DVC Pro är inställd för att ansluta till Wi-Fi SSID:
 - `KGWLAN-5Ghz`
@@ -53,11 +59,6 @@ https://play.google.com/store/apps/details?id=com.lightingsoft.arcolisremote&hl=
 ```text
 https://play.google.com/store/apps/details?id=com.lightinsoft.easyremotepro
 ```
-
-## Bilder (liten förhandsvisning)
-<img src="./Cameo%20ljus.png" alt="Cameo ljus" width="360" />
-<img src="./Stand%20Alone.png" alt="Stand Alone" width="360" />
-<img src="./Hardware%20Manager.png" alt="Hardware Manager" width="360" />
 
 ## Referenslänkar
 - [Arcolis Remote på Google Play](https://play.google.com/store/apps/details?id=com.lightingsoft.arcolisremote&hl=fi)

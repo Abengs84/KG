@@ -53,16 +53,7 @@ Följande ordning, lägen och adresser ska användas:
 DVC Pro är inställd för att ansluta till Wi-Fi SSID:
 - `KGWLAN-5Ghz`
 
-## Arcolis-appar (snabbkopiering)
-```text
-https://play.google.com/store/apps/details?id=com.lightingsoft.arcolisremote&hl=fi
-```
-
-```text
-https://play.google.com/store/apps/details?id=com.lightinsoft.easyremotepro
-```
-
-## Referenslänkar
+## Arcolis-appar
 - [Arcolis Remote på Google Play](https://play.google.com/store/apps/details?id=com.lightingsoft.arcolisremote&hl=fi)
 - [Arcolis Remote Pro på Google Play](https://play.google.com/store/apps/details?id=com.lightinsoft.easyremotepro)
 

@@ -10,16 +10,18 @@
 ## Lampor och DMX-konfiguration
 Följande ordning, lägen och adresser ska användas:
 
-1. Q-Spot 40 RGBW, Mode 5 (9 channels), DMX-kanal 1, plats: vänster nere
-2. Thunderwash 600 RGBW, Mode 8 (7 channels), DMX-kanal 10, plats: mitten bak
-3. Nanospot 300, Mode 3 (11 channels), DMX-kanal 17, plats: vänster nere
-4. Nanobeam 600, Mode 1 (14 channels), DMX-kanal 28, plats: vänster nere
-5. Nanobeam 600, Mode 1 (14 channels), DMX-kanal 42, plats: höger nere
-6. Nanospot 300, Mode 3 (11 channels), DMX-kanal 56, plats: höger nere
-7. Q-Spot 40 RGBW, Mode 5 (9 channels), DMX-kanal 67, plats: höger nere
-8. Q-Spot 40 RGBW, Mode 5 (9 channels), DMX-kanal 76, plats: höger uppe
-9. Hydrabeam 400 RGBW, Mode 5 (56 channels), DMX-kanal 85, plats: mitten uppe
-10. Q-Spot 40 RGBW, Mode 5 (9 channels), DMX-kanal 141, plats: vänster uppe
+| # | Armatur | Mode | Kanaler | DMX-kanal | Plats |
+|---|---|---|---|---|---|
+| 1 | Q-Spot 40 RGBW | Mode 5 | 9 | 1 | Vänster nere |
+| 2 | Thunderwash 600 RGBW | Mode 8 | 7 | 10 | Mitten bak |
+| 3 | Nanospot 300 | Mode 3 | 11 | 17 | Vänster nere |
+| 4 | Nanobeam 600 | Mode 1 | 14 | 28 | Vänster nere |
+| 5 | Nanobeam 600 | Mode 1 | 14 | 42 | Höger nere |
+| 6 | Nanospot 300 | Mode 3 | 11 | 56 | Höger nere |
+| 7 | Q-Spot 40 RGBW | Mode 5 | 9 | 67 | Höger nere |
+| 8 | Q-Spot 40 RGBW | Mode 5 | 9 | 76 | Höger uppe |
+| 9 | Hydrabeam 400 RGBW | Mode 5 | 56 | 85 | Mitten uppe |
+| 10 | Q-Spot 40 RGBW | Mode 5 | 9 | 141 | Vänster uppe |
 
 <img src="./Cameo%20ljus.png" alt="Cameo ljus" width="360" />
 
@@ -63,3 +65,9 @@ https://play.google.com/store/apps/details?id=com.lightinsoft.easyremotepro
 ## Referenslänkar
 - [Arcolis Remote på Google Play](https://play.google.com/store/apps/details?id=com.lightingsoft.arcolisremote&hl=fi)
 - [Arcolis Remote Pro på Google Play](https://play.google.com/store/apps/details?id=com.lightinsoft.easyremotepro)
+
+## Ladda ner Daslight 4
+[Daslight 4 (nedladdning)](https://eu-software.n-g.co/Release/Daslight4.exe)
+
+## Tutorial (YouTube)
+[Daslight DVC 4 Tutorials English](https://www.youtube.com/playlist?list=PLHZD33csOYTS1T7xxDuG8sIMniJtK8Isz)

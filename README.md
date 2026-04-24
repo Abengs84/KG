@@ -4,6 +4,10 @@ Detta repo innehåller dokumentation för:
 - `ljud/` - Soundcraft Ui16 (nätverk och användning)
 - `ljus/` - Daslight 4 + Cameo DVC Pro (show, patch och uppladdning)
 
+## Innehåll
+- [Ljud - Soundcraft Ui16](./ljud/README.md)
+- [Ljus - Daslight 4 och Cameo DVC Pro](./ljus/README.md)
+
 ## Snabbstart
 1. Läs `ljud/README.md` för ljudsystemet.
 2. Läs `ljus/README.md` för ljussystemet.

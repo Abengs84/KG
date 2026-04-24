@@ -48,8 +48,16 @@ DVC Pro är inställd för att ansluta till Wi-Fi SSID:
 ## Arcolis-appar (snabbkopiering)
 ```text
 https://play.google.com/store/apps/details?id=com.lightingsoft.arcolisremote&hl=fi
+```
+
+```text
 https://play.google.com/store/apps/details?id=com.lightinsoft.easyremotepro
 ```
+
+## Bilder (liten förhandsvisning)
+<img src="./Cameo%20ljus.png" alt="Cameo ljus" width="360" />
+<img src="./Stand%20Alone.png" alt="Stand Alone" width="360" />
+<img src="./Hardware%20Manager.png" alt="Hardware Manager" width="360" />
 
 ## Referenslänkar
 - [Arcolis Remote på Google Play](https://play.google.com/store/apps/details?id=com.lightingsoft.arcolisremote&hl=fi)

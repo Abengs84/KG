@@ -10,18 +10,18 @@
 ## Lampor och DMX-konfiguration
 Följande ordning, lägen och adresser ska användas:
 
-| # | Armatur | Mode | Kanaler | DMX-kanal | Plats |
-|---|---|---|---|---|---|
-| 1 | Q-Spot 40 RGBW | Mode 5 | 9 | 1 | Vänster nere |
-| 2 | Thunderwash 600 RGBW | Mode 8 | 7 | 10 | Mitten bak |
-| 3 | Nanospot 300 | Mode 3 | 11 | 17 | Vänster nere |
-| 4 | Nanobeam 600 | Mode 1 | 14 | 28 | Vänster nere |
-| 5 | Nanobeam 600 | Mode 1 | 14 | 42 | Höger nere |
-| 6 | Nanospot 300 | Mode 3 | 11 | 56 | Höger nere |
-| 7 | Q-Spot 40 RGBW | Mode 5 | 9 | 67 | Höger nere |
-| 8 | Q-Spot 40 RGBW | Mode 5 | 9 | 76 | Höger uppe |
-| 9 | Hydrabeam 400 RGBW | Mode 5 | 56 | 85 | Mitten uppe |
-| 10 | Q-Spot 40 RGBW | Mode 5 | 9 | 141 | Vänster uppe |
+| # | Armatur | Mode | DMX-kanal | Plats |
+|---|---|---|---|---|
+| 1 | Q-Spot 40 RGBW | Mode 5 (9 kanaler) | 1 | Vänster nere |
+| 2 | Thunderwash 600 RGBW | Mode 8 (7 kanaler) | 10 | Mitten bak |
+| 3 | Nanospot 300 | Mode 3 (11 kanaler) | 17 | Vänster nere |
+| 4 | Nanobeam 600 | Mode 1 (14 kanaler) | 28 | Vänster nere |
+| 5 | Nanobeam 600 | Mode 1 (14 kanaler) | 42 | Höger nere |
+| 6 | Nanospot 300 | Mode 3 (11 kanaler) | 56 | Höger nere |
+| 7 | Q-Spot 40 RGBW | Mode 5 (9 kanaler) | 67 | Höger nere |
+| 8 | Q-Spot 40 RGBW | Mode 5 (9 kanaler) | 76 | Höger uppe |
+| 9 | Hydrabeam 400 RGBW | Mode 5 (56 kanaler) | 85 | Mitten uppe |
+| 10 | Q-Spot 40 RGBW | Mode 5 (9 kanaler) | 141 | Vänster uppe |
 
 <img src="./Cameo%20ljus.png" alt="Cameo ljus" width="360" />
 

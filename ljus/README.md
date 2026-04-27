@@ -65,6 +65,9 @@ DVC Pro är inställd för att ansluta till Wi-Fi SSID:
 - [Arcolis Remote på Google Play](https://play.google.com/store/apps/details?id=com.lightingsoft.arcolisremote&hl=fi)
 - [Arcolis Remote Pro på Google Play](https://play.google.com/store/apps/details?id=com.lightinsoft.easyremotepro)
 
+Obs: I praktiken kan `Arcolis Remote` inte visa grupper, så den visar alla scener i en rak ordning i stället för tydlig gruppindelning.
+`Arcolis Remote Pro` kan vara bättre om du vill arbeta mer med grupper.
+
 ## Ladda ner Daslight 4
 [Daslight 4 (nedladdning)](https://eu-software.n-g.co/Release/Daslight4.exe)
 

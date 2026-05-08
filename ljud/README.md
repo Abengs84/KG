@@ -23,5 +23,16 @@ Detta är medvetet valt för stabilitet eftersom hotspot/Wi-Fi ibland kan orsaka
 
 3. Kontrollera kanallistan och nivåer enligt aktuell setup.
 
-## Notering
-Om enheten stängs av och startas om: verifiera att IP fortfarande är samma innan användning.
+## Hitta IP-adressen om den har ändrats
+Om Soundcraft Ui16 inte svarar på den vanliga adressen kan du använda PowerShell-skriptet `hitta-ui16.ps1`.
+
+Kör från mappen `ljud/`:
+
+```powershell
+.\hitta-ui16.ps1
+```
+
+Skriptet skannar nätverket `10.203.0.0/20`, prioriterar `10.203.16.x` och `10.203.17.x`, och letar efter Soundcrafts `mixer.html`.
+
+När mixern hittas skriver skriptet ut adressen och öppnar den automatiskt i webbläsaren.
+
